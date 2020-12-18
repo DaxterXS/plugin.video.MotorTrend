@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.Cielo" name="Cielo" version="0.0.2" provider-name="DaxterXS">
+<addon id="plugin.video.MotorTrend" name="MotorTrend" version="0.0.2" provider-name="DaxterXS">
   <requires>
     <import addon="xbmc.python" version="2.24.0"/>
     <import addon="script.module.requests" version="2.12.4"/>
@@ -8,10 +8,10 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="it">Cielo diretta</summary>
+    <summary lang="it">MotorTrend diretta</summary>
     <description lang="it">Streaming  della diretta di Cielo</description>
-    <summary lang="en">Cielo Italy live</summary>
-    <description lang="en">Live streaming of Cielo Italy</description>
+    <summary lang="en">MotorTrend Italy live</summary>
+    <description lang="en">Live streaming of MotorTrend Italy</description>
     <language>it</language>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007</license>
